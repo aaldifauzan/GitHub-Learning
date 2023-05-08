@@ -29,3 +29,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   + Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   + Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+**20 Mei 2023** <br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+
+  + Mempelajari Squash
