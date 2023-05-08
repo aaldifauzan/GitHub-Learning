@@ -35,3 +35,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
   + Mempelajari Squash
   + Belajar Merge
+  + Test lagi
